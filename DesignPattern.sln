@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28531.58
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern", "DesignPattern\DesignPattern.csproj", "{4A5DF708-DBF4-4587-911D-055131B32E09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusniessLayer", "BusniessLayer\BusniessLayer.csproj", "{2D42A5FD-8EFC-4095-BE04-02955B312E1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory", "Factory\Factory.csproj", "{957F8A9B-14B2-4461-AD57-13AAA78EFF6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceCustomer", "InterfaceCustomer\InterfaceCustomer.csproj", "{C3DDA239-DD93-4C8A-AB8C-E794603378E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AA4CBCB1-A04B-4F8C-A737-A030373E5073}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationAlgorithms", "ValidationAlgorithms\ValidationAlgorithms.csproj", "{B2D2270D-94BE-46BF-A380-066104BA6A69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DalInterface", "DalInterface\DalInterface.csproj", "{16079EA5-2DA0-4C85-9634-69977B2032EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A5DF708-DBF4-4587-911D-055131B32E09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A5DF708-DBF4-4587-911D-055131B32E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A5DF708-DBF4-4587-911D-055131B32E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A5DF708-DBF4-4587-911D-055131B32E09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D42A5FD-8EFC-4095-BE04-02955B312E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D42A5FD-8EFC-4095-BE04-02955B312E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D42A5FD-8EFC-4095-BE04-02955B312E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D42A5FD-8EFC-4095-BE04-02955B312E1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{957F8A9B-14B2-4461-AD57-13AAA78EFF6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{957F8A9B-14B2-4461-AD57-13AAA78EFF6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{957F8A9B-14B2-4461-AD57-13AAA78EFF6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{957F8A9B-14B2-4461-AD57-13AAA78EFF6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3DDA239-DD93-4C8A-AB8C-E794603378E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3DDA239-DD93-4C8A-AB8C-E794603378E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3DDA239-DD93-4C8A-AB8C-E794603378E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3DDA239-DD93-4C8A-AB8C-E794603378E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2D2270D-94BE-46BF-A380-066104BA6A69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2D2270D-94BE-46BF-A380-066104BA6A69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2D2270D-94BE-46BF-A380-066104BA6A69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2D2270D-94BE-46BF-A380-066104BA6A69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16079EA5-2DA0-4C85-9634-69977B2032EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16079EA5-2DA0-4C85-9634-69977B2032EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16079EA5-2DA0-4C85-9634-69977B2032EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16079EA5-2DA0-4C85-9634-69977B2032EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E0D672A-C6B5-46F4-B921-C1E1A83DA01A}
+	EndGlobalSection
+EndGlobal
